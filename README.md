@@ -13,6 +13,7 @@ A minimal Claude Code project-context template. Clone it as the starting point f
   - `/refresh` — reload PLAN.md/STANDARDS.md/DECISIONS.md and summarize current state. Good after a long session or before compaction.
   - `/plan-update` — has Claude rewrite PLAN.md to match what's actually true right now.
   - `/decide "..."` — logs a decision to DECISIONS.md in a consistent format.
+- **.gitignore** — baseline ignores for the template.
 
 ## Using this template
 
